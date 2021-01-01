@@ -1,6 +1,7 @@
 title: "The $WRATH Token"
 description: "The official website and repository for the $WRATH ERC-20 Token."
-
+plugins:
+  - jekyll-feed
 twitter_username: "TokenWrath"
 github_username:  "TokenWRATH"
 
