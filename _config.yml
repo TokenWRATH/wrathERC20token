@@ -5,6 +5,8 @@ plugins:
 twitter_username: "TokenWrath"
 github_username:  "TokenWRATH"
 
-#show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: true # set to false to remove excerpts on the homepage
+excerpt_separator: <!–break–>
+
 
 theme: minima
