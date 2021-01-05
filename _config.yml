@@ -6,7 +6,7 @@ twitter_username: "TokenWrath"
 github_username:  "TokenWRATH"
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-excerpt_separator: \n\n
+#excerpt_separator: \n\n
 google_analytics: G-LDG3L8Z9XM
 
 theme: minima
