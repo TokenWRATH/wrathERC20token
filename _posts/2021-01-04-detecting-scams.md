@@ -1,5 +1,5 @@
 ---
-title: "Detecting crypto tokens scams."
+title: "Detecting crypto tokens scams. (click to continue reading)"
 date: 2021-01-04
 ---
 $WRATH other than aiming at becoming a secure and trustworthy ERC-20 Token, aspires to raise awareness on the vastity of crypto scams that sadly flood the Ethereum blockchain and to which many people fall for.
